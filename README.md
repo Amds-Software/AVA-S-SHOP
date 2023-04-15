@@ -1,4 +1,5 @@
 AVA-S-SHOP
+<br>Mac version with @TheStevenDev
 
 AVA-S-SHOP is a simple Java program designed to manage a hypothetical shop using file management techniques. This program is ideal for small shops that want to keep track of their inventory, sales, and customer information.
 
